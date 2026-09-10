@@ -1,0 +1,5 @@
+{"level":"info","message":"⌛ Building environment","timeElapsed":113,"timestamp":"2026-09-10T16:06:51.872Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":117,"timestamp":"2026-09-10T16:06:52.081Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":115,"timestamp":"2026-09-10T16:07:20.612Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":259,"timestamp":"2026-09-10T16:07:31.827Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":147839,"timestamp":"2026-09-10T16:09:59.408Z"}
