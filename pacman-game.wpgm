@@ -1,5 +1,21 @@
 import wollok.game.*
+import pacman.*
+import direcciones.*
 
 program juego {
+
+  game.title("PAC MAN")
+  game.addVisualCharacter(pacman)
+  game.boardGround("fondo.jpg")
+  game.height(15)
+	game.width(15)
+
+
+
+  keyboard.left().onPressDo({ pacman.mover(izquierda)})
+	keyboard.right().onPressDo({ pacman.mover(derecha)})
+	keyboard.up().onPressDo({ pacman.mover(arriba)})
+	keyboard.down().onPressDo({ pacman.mover(abajo)})
+
   game.start()
 }
