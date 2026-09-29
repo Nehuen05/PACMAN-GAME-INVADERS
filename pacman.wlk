@@ -6,7 +6,7 @@ object pacman {
     
     var bombas = 0
 
-    var  property position = game.center()
+    var  property position = game.origin()
     var direccionActual = derecha
 
     method image(){
