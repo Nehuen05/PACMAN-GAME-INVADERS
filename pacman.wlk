@@ -9,6 +9,10 @@ object pacman {
     var  property position = game.origin()
     var direccionActual = derecha
 
+
+    method text () {
+        return  "=" + bombas
+    }
     method image(){
         return "pacman-" + direccionActual.nombreDireccion() + ".png"
     }
@@ -20,18 +24,21 @@ object pacman {
     method position(){
         return position
     }
-    	method mover(direccion) {
+    method mover(direccion) {
 		const nuevaPosition = direccion.siguiente(position) 
 		position = nuevaPosition
         direccionActual = direccion
 	}
 
     method ponerBomba(){
-        if (bombas < 1){
-        self.validarPosicionVacia()
-        bombas -= 1
-        game.addVisual(new Bomba (position = self.position()))
-    }
+       if (bombas > 0){ 
+            self.validarPosicionVacia()
+            bombas -= 1
+            game.addVisual(new Bomba (position = self.position()))
+        }
+
+        //
+
     }
 
     method bombasEnCelda() { return game.colliders(self) }

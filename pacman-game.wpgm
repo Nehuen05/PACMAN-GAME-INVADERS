@@ -27,10 +27,10 @@ program juego {
 
 // BOMBAS AZULES
   game.schedule(5000, { game.addVisual(new BombaRandom (position = game.at(2, 10)))})
-  game.schedule(25000,{ game.addVisual(new BombaRandom (position = game.at(7, 9)))})
-  game.schedule(15000,{ game.addVisual(new BombaRandom (position = game.at(9, 10)))})
+  game.schedule(5000,{ game.addVisual(new BombaRandom (position = game.at(12, 10)))})
+  game.schedule(5000,{ game.addVisual(new BombaRandom (position = game.at(10, 10)))})
 
 // COLISIONES 
 
-  
+  game.onCollideDo(pacman, {elemento => elemento.chocoConPacman()})
 }
