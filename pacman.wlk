@@ -1,13 +1,20 @@
 import wollok.game.*
 import direcciones.*
+import trampas.*
 
 object pacman {
     
-    var position = game.center()
+    var bombas = 0
+
+    var  property position = game.center()
     var direccionActual = derecha
 
     method image(){
         return "pacman-" + direccionActual.nombreDireccion() + ".png"
+    }
+
+    method agarrarBomba(){
+        bombas += 1
     }
 
     method position(){
@@ -18,4 +25,20 @@ object pacman {
 		position = nuevaPosition
         direccionActual = direccion
 	}
+
+    method ponerBomba(){
+        if (bombas < 1){
+        self.validarPosicionVacia()
+        bombas -= 1
+        game.addVisual(new Bomba (position = self.position()))
+    }
+    }
+
+    method bombasEnCelda() { return game.colliders(self) }
+    
+    method validarPosicionVacia() {
+		if (not self.bombasEnCelda().isEmpty()) {
+			self.error("Ya hay una bomba!!!")
+		}
+    }
 }
