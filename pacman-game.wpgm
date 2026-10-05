@@ -10,7 +10,7 @@ program juego {
 
   game.title("PAC MAN")
   game.addVisualCharacter(pacman)
-  //game.boardGround("fondo.jpg")
+  game.boardGround("fondo.jpg")
   game.height(15)
 	game.width(15)
   
