@@ -36,16 +36,16 @@ class Proyectil {
 
     method initialize() {
         game.whenCollideDo(self, { unPersonaje => 
-            if (unPersonaje == pacman) {
+            unPersonaje.matar()
                 
-                game.removeVisual(pacman)
+                
                 
                 
                 self.destruir()
                 
                 
-                game.stop()
-            }
+                
+            
         })
     }
 

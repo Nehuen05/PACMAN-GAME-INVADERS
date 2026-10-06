@@ -9,7 +9,9 @@ object pacman {
     var  property position = game.origin()
     var direccionActual = derecha
 
-
+    method matar(){
+        game.removeVisual(self)
+    }
     method text () {
         return  "=" + bombas
     }
