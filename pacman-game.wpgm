@@ -3,6 +3,7 @@ import wollok.game.*
 import pacman.*
 import direcciones.*
 import bombasRandom.*
+import spawners.*
 
 
 program juego {
@@ -12,7 +13,7 @@ program juego {
   game.boardGround("fondo.jpg")
   game.height(15)
 	game.width(15)
-  game.start()
+  
 
   //MOVIMIENTO PACMAN
 
@@ -30,7 +31,10 @@ program juego {
   game.schedule(25000,{ game.addVisual(new BombaRandom (position = game.at(7, 9)))})
   game.schedule(15000,{ game.addVisual(new BombaRandom (position = game.at(9, 10)))})
 
+// SPAWNER DISPARADORES
+  spawner.spawnearCant_Invasores(2)
+
 // COLISIONES 
 
-  
+  game.start()
 }
