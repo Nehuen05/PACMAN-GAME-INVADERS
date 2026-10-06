@@ -34,7 +34,14 @@ program juego {
 // SPAWNER DISPARADORES
   spawner.spawnearCant_Invasores(2)
 
+// SPAWNER DISPARADORES
+  spawner.spawnearCant_Invasores(2)
+
 // COLISIONES 
 
+<<<<<<< HEAD
   game.onCollideDo(pacman, {elemento => elemento.chocoConPacman()})
+=======
+  game.start()
+>>>>>>> c3812c77f6c945739ad87f34fc26e335129940dc
 }

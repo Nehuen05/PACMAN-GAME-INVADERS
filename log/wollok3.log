@@ -96,6 +96,7 @@
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":412,"timestamp":"2026-09-29T17:10:49.907Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":206794,"timestamp":"2026-09-29T17:14:16.265Z"}
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":340,"timestamp":"2026-09-29T17:19:39.889Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":41828,"timestamp":"2026-09-29T17:20:21.378Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":408,"timestamp":"2026-09-29T17:20:23.229Z"}
@@ -153,6 +154,8 @@
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":376,"timestamp":"2026-09-29T20:26:42.203Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":334506,"timestamp":"2026-09-29T20:32:16.333Z"}
 =======
+=======
+>>>>>>> c3812c77f6c945739ad87f34fc26e335129940dc
 {"level":"info","message":"⌛ Building environment","timeElapsed":571,"timestamp":"2026-09-29T19:43:38.129Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":501,"timestamp":"2026-09-29T19:43:38.842Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":345,"timestamp":"2026-09-29T19:43:39.213Z"}
@@ -608,9 +611,12 @@
 {"exitCode":0,"level":"info","message":"👾 Game executed pacman-game.juego on d:\\Programacion con Objetos I\\PACMAN INVADERS (Lucas)\\PACMAN-GAME","timeElapsed":9046,"timestamp":"2026-10-05T01:56:28.878Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34md:\\Programacion con Objetos I\\PACMAN INVADERS (Lucas)\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":279,"timestamp":"2026-10-05T01:56:46.773Z"}
 {"exitCode":0,"level":"info","message":"👾 Game executed pacman-game.juego on d:\\Programacion con Objetos I\\PACMAN INVADERS (Lucas)\\PACMAN-GAME","timeElapsed":7864,"timestamp":"2026-10-05T01:56:54.358Z"}
+<<<<<<< HEAD
 >>>>>>> c3812c77f6c945739ad87f34fc26e335129940dc
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":382,"timestamp":"2026-10-06T18:18:54.723Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":338,"timestamp":"2026-10-06T18:20:30.629Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":352,"timestamp":"2026-10-06T18:20:48.408Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":314,"timestamp":"2026-10-06T18:25:15.932Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":343,"timestamp":"2026-10-06T18:35:30.920Z"}
+=======
+>>>>>>> c3812c77f6c945739ad87f34fc26e335129940dc

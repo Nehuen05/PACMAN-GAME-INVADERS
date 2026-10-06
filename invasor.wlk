@@ -43,6 +43,7 @@ class Proyectil {
                 
                 self.destruir()
                 
+                
                 game.stop()
             }
         })
