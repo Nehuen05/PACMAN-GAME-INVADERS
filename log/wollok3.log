@@ -784,3 +784,27 @@
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":94988,"timestamp":"2026-10-08T19:11:41.329Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":382,"timestamp":"2026-10-08T19:11:43.704Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":61688,"timestamp":"2026-10-08T19:12:45.009Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":629,"timestamp":"2026-10-08T20:58:07.681Z"}
+{"level":"error","message":"✘ Failed to rebuild document Missing workspace folder!","stack":"Error: Missing workspace folder!\n    at QF (c:\\Users\\publico\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:7332)\n    at V3.invoke (c:\\Users\\publico\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:157330)\n    at o.fire (c:\\Users\\publico\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:158100)\n    at c:\\Users\\publico\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:37:57488\n    at nd (c:\\Users\\publico\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:8:1561)\n    at It (c:\\Users\\publico\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6224)\n    at et (c:\\Users\\publico\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6378)\n    at Immediate._onImmediate (c:\\Users\\publico\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6142)\n    at process.processImmediate (node:internal/timers:574:21)","timestamp":"2026-10-08T20:58:07.716Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":710,"timestamp":"2026-10-08T20:58:09.289Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":682,"timestamp":"2026-10-08T20:58:12.436Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":977,"timestamp":"2026-10-08T20:58:13.722Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":1149,"timestamp":"2026-10-08T20:58:14.879Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":559,"timestamp":"2026-10-08T20:58:15.439Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":347,"timestamp":"2026-10-08T20:58:15.787Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":431,"timestamp":"2026-10-08T20:58:16.326Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":589,"timestamp":"2026-10-08T20:58:16.952Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":232,"timestamp":"2026-10-08T20:58:17.254Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":236,"timestamp":"2026-10-08T20:58:17.531Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":766,"timestamp":"2026-10-08T20:58:18.299Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":784,"timestamp":"2026-10-08T20:58:19.086Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":647,"timestamp":"2026-10-08T20:58:19.749Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":399,"timestamp":"2026-10-08T20:58:20.183Z"}
+{"level":"info","message":"⌛ Validating sonidos.wlk","timeElapsed":363,"timestamp":"2026-10-08T20:58:20.552Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":1578,"timestamp":"2026-10-08T20:58:22.130Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":852,"timestamp":"2026-10-08T20:58:23.002Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":392,"timestamp":"2026-10-08T20:58:23.395Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":863,"timestamp":"2026-10-08T20:58:24.266Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":470,"timestamp":"2026-10-08T20:58:24.737Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":347,"timestamp":"2026-10-08T21:01:15.485Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":358,"timestamp":"2026-10-08T21:01:15.844Z"}
