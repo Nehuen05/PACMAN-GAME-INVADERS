@@ -637,3 +637,131 @@
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":35694,"timestamp":"2026-10-06T19:25:18.522Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":445,"timestamp":"2026-10-06T19:25:20.364Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":45331,"timestamp":"2026-10-06T19:26:05.248Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":388,"timestamp":"2026-10-06T19:26:25.410Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":1491035,"timestamp":"2026-10-06T19:51:16.066Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":536,"timestamp":"2026-10-07T14:50:16.470Z"}
+{"level":"error","message":"✘ Failed to rebuild document Missing workspace folder!","stack":"Error: Missing workspace folder!\n    at QF (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:7332)\n    at V3.invoke (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:157330)\n    at o.fire (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:158100)\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:37:57488\n    at nd (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:8:1561)\n    at It (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6224)\n    at et (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6378)\n    at Immediate._onImmediate (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6142)\n    at process.processImmediate (node:internal/timers:574:21)","timestamp":"2026-10-07T14:50:16.501Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":302,"timestamp":"2026-10-07T14:50:19.333Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":271,"timestamp":"2026-10-07T14:50:19.903Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":320,"timestamp":"2026-10-07T14:50:20.256Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":206,"timestamp":"2026-10-07T14:50:20.464Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":207,"timestamp":"2026-10-07T14:50:20.684Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":300,"timestamp":"2026-10-07T14:50:20.996Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":320,"timestamp":"2026-10-07T14:50:21.317Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":144,"timestamp":"2026-10-07T14:50:23.141Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":310,"timestamp":"2026-10-07T14:50:25.437Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":238,"timestamp":"2026-10-07T14:50:25.677Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":226,"timestamp":"2026-10-07T14:50:27.368Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":262,"timestamp":"2026-10-07T14:50:27.721Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":195,"timestamp":"2026-10-07T14:50:27.976Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":226,"timestamp":"2026-10-07T14:50:28.274Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":348,"timestamp":"2026-10-07T14:50:28.633Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":365,"timestamp":"2026-10-07T14:50:28.999Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":392,"timestamp":"2026-10-07T14:50:29.392Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":335,"timestamp":"2026-10-07T14:50:29.727Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":319,"timestamp":"2026-10-07T14:50:30.046Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":346,"timestamp":"2026-10-07T14:50:30.394Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":307,"timestamp":"2026-10-07T14:50:30.702Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":349,"timestamp":"2026-10-07T14:50:31.051Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":265,"timestamp":"2026-10-07T14:50:31.318Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":305,"timestamp":"2026-10-07T14:50:31.692Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":162,"timestamp":"2026-10-07T14:50:31.855Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":256,"timestamp":"2026-10-07T14:50:32.135Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":205,"timestamp":"2026-10-07T14:50:32.341Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":202,"timestamp":"2026-10-07T14:50:32.543Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":203,"timestamp":"2026-10-07T14:50:32.747Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":215,"timestamp":"2026-10-07T14:50:32.970Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":205,"timestamp":"2026-10-07T14:50:33.176Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":174,"timestamp":"2026-10-07T14:50:33.370Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":189,"timestamp":"2026-10-07T14:50:33.560Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":166,"timestamp":"2026-10-07T14:50:33.727Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":200,"timestamp":"2026-10-07T14:50:33.929Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":219,"timestamp":"2026-10-07T14:50:34.149Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":252,"timestamp":"2026-10-07T14:50:34.401Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":247,"timestamp":"2026-10-07T14:50:34.649Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":360,"timestamp":"2026-10-07T14:51:25.334Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":414,"timestamp":"2026-10-07T14:51:25.820Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":338,"timestamp":"2026-10-07T14:51:26.164Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":284,"timestamp":"2026-10-07T14:51:26.449Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":288,"timestamp":"2026-10-07T14:51:26.738Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":454,"timestamp":"2026-10-07T14:51:27.194Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":355,"timestamp":"2026-10-07T14:51:27.553Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":204,"timestamp":"2026-10-07T14:51:27.758Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":251,"timestamp":"2026-10-07T14:51:28.010Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":355,"timestamp":"2026-10-07T14:51:28.393Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":270,"timestamp":"2026-10-07T14:51:28.670Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":214,"timestamp":"2026-10-07T14:51:28.884Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":203,"timestamp":"2026-10-07T14:51:29.088Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":226,"timestamp":"2026-10-07T14:51:29.321Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":208,"timestamp":"2026-10-07T14:51:29.530Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":203,"timestamp":"2026-10-07T14:51:29.739Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":170,"timestamp":"2026-10-07T14:51:29.916Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":198,"timestamp":"2026-10-07T14:51:30.116Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":873,"timestamp":"2026-10-07T14:51:57.732Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":312,"timestamp":"2026-10-07T16:53:44.538Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":326,"timestamp":"2026-10-07T16:53:44.943Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":279,"timestamp":"2026-10-07T16:53:45.225Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":12716483,"timestamp":"2026-10-07T18:23:49.031Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":266,"timestamp":"2026-10-08T17:49:28.061Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":237,"timestamp":"2026-10-08T17:49:28.303Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":126,"timestamp":"2026-10-08T17:49:28.430Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":122,"timestamp":"2026-10-08T17:49:28.553Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":104,"timestamp":"2026-10-08T17:49:29.451Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":530,"timestamp":"2026-10-08T17:49:30.192Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":200,"timestamp":"2026-10-08T17:49:30.421Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":137,"timestamp":"2026-10-08T17:49:30.559Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":112,"timestamp":"2026-10-08T17:49:31.277Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":190,"timestamp":"2026-10-08T17:49:31.475Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":142,"timestamp":"2026-10-08T17:49:31.618Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":153,"timestamp":"2026-10-08T17:49:31.772Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":229,"timestamp":"2026-10-08T17:49:32.002Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":106,"timestamp":"2026-10-08T17:49:32.116Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":222,"timestamp":"2026-10-08T17:49:32.351Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":188,"timestamp":"2026-10-08T17:49:32.540Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":167,"timestamp":"2026-10-08T17:49:32.709Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":201,"timestamp":"2026-10-08T17:49:32.911Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":197,"timestamp":"2026-10-08T17:49:33.109Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":226,"timestamp":"2026-10-08T17:49:33.336Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":207,"timestamp":"2026-10-08T17:49:33.544Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":165,"timestamp":"2026-10-08T17:49:33.710Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":105,"timestamp":"2026-10-08T17:49:33.815Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":112,"timestamp":"2026-10-08T17:49:34.023Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":123,"timestamp":"2026-10-08T17:49:34.311Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":119,"timestamp":"2026-10-08T17:49:34.431Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":104,"timestamp":"2026-10-08T17:49:34.539Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":127,"timestamp":"2026-10-08T17:49:34.759Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":117,"timestamp":"2026-10-08T17:49:34.877Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":111,"timestamp":"2026-10-08T17:49:34.989Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":146,"timestamp":"2026-10-08T17:49:35.233Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":112,"timestamp":"2026-10-08T17:49:35.345Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":146,"timestamp":"2026-10-08T17:49:35.491Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":194,"timestamp":"2026-10-08T17:49:35.686Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":141,"timestamp":"2026-10-08T17:49:35.827Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":128,"timestamp":"2026-10-08T17:49:35.957Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":146,"timestamp":"2026-10-08T17:49:36.103Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":121,"timestamp":"2026-10-08T17:49:36.225Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":116,"timestamp":"2026-10-08T17:49:36.342Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":106,"timestamp":"2026-10-08T17:49:36.450Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":172,"timestamp":"2026-10-08T17:49:36.623Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":197,"timestamp":"2026-10-08T17:49:36.964Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":108,"timestamp":"2026-10-08T17:49:37.073Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":122,"timestamp":"2026-10-08T17:49:37.196Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":120,"timestamp":"2026-10-08T17:49:37.407Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":109,"timestamp":"2026-10-08T17:49:37.605Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":111,"timestamp":"2026-10-08T17:49:37.878Z"}
+{"level":"info","message":"⌛ Validating sonidos.wlk","timeElapsed":112,"timestamp":"2026-10-08T17:52:37.645Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":149,"timestamp":"2026-10-08T17:53:50.831Z"}
+{"level":"info","message":"⌛ Validating sonidos.wlk","timeElapsed":105,"timestamp":"2026-10-08T17:53:51.448Z"}
+{"level":"info","message":"⌛ Validating sonidos.wlk","timeElapsed":134,"timestamp":"2026-10-08T17:54:19.160Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":105,"timestamp":"2026-10-08T17:54:44.852Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":105,"timestamp":"2026-10-08T18:01:32.682Z"}
+{"level":"error","message":"✘ Failed to rebuild document Failed to parse pacman.wlk: \n-- PARSING FAILED --------------------------------------------------\n\n  34 | \t\tposition = nuevaPosition\n  35 |         direccionActual = direccion\n> 36 | \t}\n     |  ^\n  37 | \n  38 |     method ponerBomba(){\n\nExpected one of the following: \n\n'@', 'class', 'const', 'describe', 'mixin', 'object', 'only', 'package', 'program', 'test', 'var', '{', EOF, comment, not \"}\r\n\r\n    \", whitespace\n","stack":"Error: Failed to parse pacman.wlk: \n-- PARSING FAILED --------------------------------------------------\n\n  34 | \t\tposition = nuevaPosition\n  35 |         direccionActual = direccion\n> 36 | \t}\n     |  ^\n  37 | \n  38 |     method ponerBomba(){\n\nExpected one of the following: \n\n'@', 'class', 'const', 'describe', 'mixin', 'object', 'only', 'package', 'program', 'test', 'var', '{', EOF, comment, not \"}\r\n\r\n    \", whitespace\n\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2385:13026\n    at Array.map (<anonymous>)\n    at z1n (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2385:12950)\n    at H2.buildEnvironmentFrom (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:5254)\n    at H2.updateEnvironmentWith (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:4989)\n    at QF (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:7383)\n    at V3.invoke (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:157330)\n    at o.fire (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:158100)\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:37:57871\n    at nd (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:8:1561)","timestamp":"2026-10-08T18:01:32.694Z"}
+{"level":"error","message":"✘ Failed to rebuild document Failed to parse pacman.wlk: \n-- PARSING FAILED --------------------------------------------------\n\n  34 | \t\tposition = nuevaPosition\n  35 |         direccionActual = direccion\n> 36 | \t}\n     |  ^\n  37 | \n  38 |     method ponerBomba(){\n\nExpected one of the following: \n\n'@', 'class', 'const', 'describe', 'mixin', 'object', 'only', 'package', 'program', 'test', 'var', '{', EOF, comment, not \"}\r\n\r\n    \", whitespace\n","stack":"Error: Failed to parse pacman.wlk: \n-- PARSING FAILED --------------------------------------------------\n\n  34 | \t\tposition = nuevaPosition\n  35 |         direccionActual = direccion\n> 36 | \t}\n     |  ^\n  37 | \n  38 |     method ponerBomba(){\n\nExpected one of the following: \n\n'@', 'class', 'const', 'describe', 'mixin', 'object', 'only', 'package', 'program', 'test', 'var', '{', EOF, comment, not \"}\r\n\r\n    \", whitespace\n\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2385:13026\n    at Array.map (<anonymous>)\n    at z1n (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2385:12950)\n    at H2.buildEnvironmentFrom (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:5254)\n    at H2.updateEnvironmentWith (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:4989)\n    at QF (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:7383)\n    at V3.invoke (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:157330)\n    at o.fire (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:158100)\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:37:57871\n    at nd (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:8:1561)","timestamp":"2026-10-08T18:01:32.889Z"}
+{"level":"error","message":"✘ Failed to rebuild document Failed to parse pacman.wlk: \n-- PARSING FAILED --------------------------------------------------\n\n  34 | \t\tposition = nuevaPosition\n  35 |         direccionActual = direccion\n> 36 | \t}\n     |  ^\n  37 | \n  38 |     method ponerBomba(){\n\nExpected one of the following: \n\n'@', 'class', 'const', 'describe', 'mixin', 'object', 'only', 'package', 'program', 'test', 'var', '{', EOF, comment, not \"}\r\n\r\n    \", whitespace\n","stack":"Error: Failed to parse pacman.wlk: \n-- PARSING FAILED --------------------------------------------------\n\n  34 | \t\tposition = nuevaPosition\n  35 |         direccionActual = direccion\n> 36 | \t}\n     |  ^\n  37 | \n  38 |     method ponerBomba(){\n\nExpected one of the following: \n\n'@', 'class', 'const', 'describe', 'mixin', 'object', 'only', 'package', 'program', 'test', 'var', '{', EOF, comment, not \"}\r\n\r\n    \", whitespace\n\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2385:13026\n    at Array.map (<anonymous>)\n    at z1n (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2385:12950)\n    at H2.buildEnvironmentFrom (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:5254)\n    at H2.updateEnvironmentWith (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:4989)\n    at QF (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:7383)\n    at V3.invoke (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:157330)\n    at o.fire (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:158100)\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:37:57871\n    at nd (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:8:1561)","timestamp":"2026-10-08T18:01:35.361Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":110,"timestamp":"2026-10-08T18:01:52.947Z"}
+{"level":"error","message":"✘ Completions for node Send ([15:9, 15:30] - pacman.wlk) failed: Error: [Send]{485db7} at pacman.wlk:15 exhausted all cases without a match [Send]{485db7} at pacman.wlk:15 exhausted all cases without a match","stack":"Error: [Send]{485db7} at pacman.wlk:15 exhausted all cases without a match\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:38:6142\n    at L2 (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:42)\n    at Jh (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:1092)\n    at w5n (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:1248)\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:38:6131\n    at L2 (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:42)\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:2988\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:8440\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:37:74872\n    at Ke (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:8527)","timestamp":"2026-10-08T18:02:09.793Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":548,"timestamp":"2026-10-08T18:02:46.423Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":571,"timestamp":"2026-10-08T18:03:36.095Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":51368,"timestamp":"2026-10-08T18:03:37.243Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":361,"timestamp":"2026-10-08T18:03:52.924Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":40932,"timestamp":"2026-10-08T18:04:33.494Z"}
