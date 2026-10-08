@@ -1,8 +1,8 @@
 import wollok.game.*
 class Muro {
     method image() = "muro.png"
-    var property position = game.at(3,3)
+    var property position
 
-    method esSolido() { true}
+    method esSolido() { return true}
 
  }

@@ -31,12 +31,14 @@ object pacman {
     }
     method mover(direccion) {
 		const nuevaPosition = direccion.siguiente(position) 
-		position = nuevaPosition
-        direccionActual = direccion
+		if (not self.hayMurosAdelante(position)) {
+			position = nuevaPosition
+			direccionActual = direccion
+		}
 	}
 
     method hayMurosAdelante(posicion) {
-      return not (game.getObjectsIn(posicion).esSolido())
+      return game.getObjectsIn(posicion).any({ objeto => objeto.esSolido() })
     }
 
     method ponerBomba(){
