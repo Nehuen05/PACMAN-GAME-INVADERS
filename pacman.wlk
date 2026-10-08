@@ -1,6 +1,8 @@
 import wollok.game.*
 import direcciones.*
 import trampas.*
+import sonidos.*
+
 
 object pacman {
     
@@ -10,6 +12,7 @@ object pacman {
     var direccionActual = derecha
 
     method matar(){
+        muerte.sonidoMuerte()
         game.removeVisual(self)
     }
     method text () {
