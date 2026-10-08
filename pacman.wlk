@@ -35,6 +35,10 @@ object pacman {
         direccionActual = direccion
 	}
 
+    method hayMurosAdelante(posicion) {
+      return not (game.getObjectsIn(posicion).esSolido())
+    }
+
     method ponerBomba(){
        if (bombas > 0){ 
             self.validarPosicionVacia()
