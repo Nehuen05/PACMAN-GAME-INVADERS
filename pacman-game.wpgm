@@ -46,6 +46,5 @@ program juego {
 
 // COLISIONES 
   game.onCollideDo(pacman, {elemento => elemento.chocoConPacman()})
-
   game.start()
 }

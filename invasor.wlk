@@ -10,18 +10,18 @@ class Invasor {
         return "invasor.png"
     }
 
-    //Inicia el ciclo de disparos del invasor
+
     method initialize() {
         game.onTick(2000, "disparador_proyectil_" + self.identity().toString(), {self.fire()})
     }
 
-    //Este metodo se encarga de disparar el proyectil justo en la posicion de invasor
+
 
     method fire(){
         const proyectil = new Proyectil(position = self.position(), direccion = direccion)
         game.addVisual(proyectil)
 
-        //Avisa al proyectil que comienze a avanzar
+
         game.onTick(100, "movimiento_proyectil_" + proyectil.identity().toString(), {proyectil.avanzar()})
     }
 }
@@ -56,14 +56,14 @@ class Proyectil {
         position.left(1)
     }
 
-    //Elimina el proyectil una vez se sale de la pantalla
+
     if (position.x() < 0 or position.x() >= game.width()){
         game.removeVisual(self)
         game.removeTickEvent("movimiento_proyectil_" + self.identity().toString())
     }
   }
 
-  // Método auxiliar para limpiar los ticks y remover el proyectil visualmente
+
     method destruir() {
         if (game.hasVisual(self)) {
             game.removeVisual(self)
