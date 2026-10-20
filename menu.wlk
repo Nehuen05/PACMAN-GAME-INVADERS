@@ -5,6 +5,7 @@ import spawners.*
 import pacman-game.*
 import fondo.*
 import fantasmas.*
+import muro.*
 
 
 object menu {
@@ -28,7 +29,10 @@ object menu {
         musicaFondo.shouldLoop(true)
         game.schedule(300, { musicaFondo.play()} )
 
-
+  (0..14).forEach({ x => game.addVisual(new Muro(position = game.at(x, 14))) })
+  (0..14).forEach({ x => game.addVisual(new Muro(position = game.at(x, 0))) })
+  (0..14).forEach({ y => game.addVisual(new Muro(position = game.at(0, y))) })
+  (0..14).forEach({ y => game.addVisual(new Muro(position = game.at(14, y))) })
 
 
 // BOMBAS AZULES

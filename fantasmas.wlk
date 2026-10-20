@@ -15,4 +15,6 @@ class Fantasma {
     method chocoConPacman(){if(pacmanFuerte){self.morir()}else{pacman.matar()}}
 
     method image(){return imagen}
+
+    method esSolido() { return false}
 }
