@@ -18,7 +18,5 @@ class Fantasma {
 
     method image(){return imagen}
     
-    method moverse(){
-        
-    }
+    method moverse(){}
 }
