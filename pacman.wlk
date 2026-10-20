@@ -2,7 +2,7 @@ import wollok.game.*
 import direcciones.*
 import trampas.*
 import sonidos.*
-
+import menuMuerte.*
 
 object pacman {
     
@@ -11,11 +11,7 @@ object pacman {
     var  property position = game.origin()
     var direccionActual = derecha
 
-    method matar(){
-        muerte.sonidoMuerte()
-        game.removeVisual(self)
-        bombas = 0
-    }
+
     method text () {
         return  "=" + bombas
     }
@@ -53,5 +49,11 @@ object pacman {
 		if (not self.bombasEnCelda().isEmpty()) {
 			self.error("Ya hay una bomba!!!")
 		}
+    }
+        method matar(){
+        muerte.sonidoMuerte()
+        game.removeVisual(self)
+        bombas = 0
+        game.addVisual(menu)
     }
 }
