@@ -19,6 +19,19 @@ object arriba {
         tablero.validarDentro(nueva)
         return nueva
     }
+
+    method avanzarHasta(position, pasos) {
+        return position.up(pasos)
+    }
+
+    method opuesta() {
+        return abajo
+    }
+
+    method esValidaDesde(position) {
+        return position.y() < game.height() - 1
+    }
+
     method nombreDireccion(){
         return "arriba"
     }
@@ -32,7 +45,20 @@ object abajo {
         tablero.validarDentro(nueva)
         return nueva
     }
-        method nombreDireccion(){
+
+    method avanzarHasta(position, pasos) {
+        return position.down(pasos)
+    }
+
+    method opuesta() {
+        return arriba
+    }
+
+    method esValidaDesde(position) {
+        return position.y() > 0
+    }
+
+    method nombreDireccion(){
         return "abajo"
     }
 }
@@ -43,7 +69,20 @@ object derecha {
         tablero.validarDentro(nueva)
         return nueva
     }
-        method nombreDireccion(){
+
+    method avanzarHasta(position, pasos) {
+        return position.right(pasos)
+    }
+
+    method opuesta() {
+        return izquierda
+    }
+
+    method esValidaDesde(position) {
+        return position.x() < game.width() - 1
+    }
+
+    method nombreDireccion(){
         return "derecha"
     }
 
@@ -54,7 +93,20 @@ object izquierda{
         tablero.validarDentro(nueva)
         return nueva
     }
-        method nombreDireccion(){
+
+    method avanzarHasta(position, pasos) {
+        return position.left(pasos)
+    }
+
+    method opuesta() {
+        return derecha
+    }
+
+    method esValidaDesde(position) {
+        return position.x() > 0
+    }
+
+    method nombreDireccion(){
         return "izquierda"
     }
 

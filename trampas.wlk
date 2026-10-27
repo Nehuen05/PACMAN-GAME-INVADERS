@@ -10,6 +10,7 @@ class Bomba {
 
     method esSolido() { return false}
 
+    method esBomba() { return true }
+
     
 }
-

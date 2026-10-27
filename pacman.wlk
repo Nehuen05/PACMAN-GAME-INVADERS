@@ -3,15 +3,20 @@ import direcciones.*
 import trampas.*
 import sonidos.*
 import menuMuerte.*
+import menuGanador.*
 
 object pacman {
     
+    var puntos = 0
     var bombas = 0
-
     var  property position = game.origin()
     var direccionActual = derecha
 
-
+    method ganar(){if(puntos == 10000){
+            game.addVisual(menuGanador)
+            game.removeVisual(self)
+        }
+    }
     method text () {
         return  "=" + bombas
     }
@@ -26,6 +31,24 @@ object pacman {
     method position(){
         return position
     }
+
+    method sumarPunto(){
+        puntos += 1000
+        self.ganar()
+    }
+
+    method direccionActual() {
+        return direccionActual
+    }
+
+    method esSolido() {
+        return false
+    }
+
+    method esBomba() {
+        return false
+    }
+
     method mover(direccion) {
 		const nuevaPosition = direccion.siguiente(position) 
 		if (not self.hayMurosAdelante(nuevaPosition)) {

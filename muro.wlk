@@ -5,6 +5,8 @@ class Muro {
 
     method esSolido() { return true}
 
+    method esBomba() { return false }
+
     method matar() {
         // No hace nada, el muro no puede ser destruido
     }
