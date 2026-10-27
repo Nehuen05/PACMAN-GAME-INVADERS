@@ -595,3 +595,46 @@
 {"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":138,"timestamp":"2026-10-27T19:58:41.269Z"}
 {"level":"info","message":"⌛ Building environment","timeElapsed":129,"timestamp":"2026-10-27T19:58:41.559Z"}
 {"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":154,"timestamp":"2026-10-27T19:58:41.715Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":139,"timestamp":"2026-10-27T20:07:59.830Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":125,"timestamp":"2026-10-27T20:07:59.957Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":125,"timestamp":"2026-10-27T20:08:00.136Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":117,"timestamp":"2026-10-27T20:08:01.353Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":114,"timestamp":"2026-10-27T20:08:01.567Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":101,"timestamp":"2026-10-27T20:08:01.670Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":250,"timestamp":"2026-10-27T20:08:03.804Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":107,"timestamp":"2026-10-27T20:08:03.926Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":107,"timestamp":"2026-10-27T20:10:00.515Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":127,"timestamp":"2026-10-27T20:10:10.395Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":104,"timestamp":"2026-10-27T20:10:10.885Z"}
+{"level":"error","message":"✘ Completions for node Literal ([16:31, 16:36] - bombasRandom.wlk) failed: Error: false [Literal]{8ea0b5} at bombasRandom.wlk:16 exhausted all cases without a match false [Literal]{8ea0b5} at bombasRandom.wlk:16 exhausted all cases without a match","stack":"Error: false [Literal]{8ea0b5} at bombasRandom.wlk:16 exhausted all cases without a match\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:38:6142\n    at L2 (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:42)\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:2988\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:8440\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:37:74872\n    at Ke (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:8527)\n    at It (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6189)\n    at et (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6378)\n    at Immediate._onImmediate (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6142)\n    at process.processImmediate (node:internal/timers:574:21)","timestamp":"2026-10-27T20:10:11.862Z"}
+{"level":"error","message":"✘ Completions for node Return ([16:24, 16:36] - bombasRandom.wlk) failed: Error: [Return]{4067f4} at bombasRandom.wlk:16 exhausted all cases without a match [Return]{4067f4} at bombasRandom.wlk:16 exhausted all cases without a match","stack":"Error: [Return]{4067f4} at bombasRandom.wlk:16 exhausted all cases without a match\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:38:6142\n    at L2 (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:42)\n    at Jh (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:1092)\n    at L2 (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:544)\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2421:2988\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:8440\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:37:74872\n    at Ke (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:8527)\n    at It (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6189)\n    at et (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6378)","timestamp":"2026-10-27T20:10:11.863Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":170,"timestamp":"2026-10-27T20:10:35.271Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":127,"timestamp":"2026-10-27T20:14:26.072Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":182,"timestamp":"2026-10-27T20:14:26.254Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":132,"timestamp":"2026-10-27T20:14:26.393Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":106,"timestamp":"2026-10-27T20:14:27.299Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":101,"timestamp":"2026-10-27T20:14:28.410Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":102,"timestamp":"2026-10-27T20:14:28.653Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":124,"timestamp":"2026-10-27T20:15:18.751Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":133,"timestamp":"2026-10-27T20:15:18.887Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":125,"timestamp":"2026-10-27T20:15:19.431Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":109,"timestamp":"2026-10-27T20:15:24.451Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":114,"timestamp":"2026-10-27T20:15:24.572Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":103,"timestamp":"2026-10-27T20:16:42.366Z"}
+{"level":"info","message":"⌛ Validating bolitas.wlk","timeElapsed":124,"timestamp":"2026-10-27T20:16:42.558Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":101,"timestamp":"2026-10-27T20:16:55.440Z"}
+{"level":"info","message":"⌛ Validating fondo.wlk","timeElapsed":159,"timestamp":"2026-10-27T20:16:59.387Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":111,"timestamp":"2026-10-27T20:17:53.766Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":134,"timestamp":"2026-10-27T20:17:53.903Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":132,"timestamp":"2026-10-27T20:18:04.429Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":138,"timestamp":"2026-10-27T20:19:03.885Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wtest","timeElapsed":107,"timestamp":"2026-10-27T20:19:04.000Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":149,"timestamp":"2026-10-27T20:19:19.181Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":247,"timestamp":"2026-10-27T20:19:19.428Z"}
+{"level":"info","message":"Removing diagnostics from /C:/Users/usuario/OneDrive/Escritorio/PACMAN-GAME/fantasmas.wtest","timestamp":"2026-10-27T20:19:19.606Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":117,"timestamp":"2026-10-27T20:19:19.857Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":106,"timestamp":"2026-10-27T20:19:19.964Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":190,"timestamp":"2026-10-27T20:19:20.155Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":136,"timestamp":"2026-10-27T20:19:20.665Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":126,"timestamp":"2026-10-27T20:19:21.252Z"}
+{"level":"info","message":"⌛ Validating fondo.wlk","timeElapsed":107,"timestamp":"2026-10-27T20:19:21.360Z"}
