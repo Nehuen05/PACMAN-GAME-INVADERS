@@ -10,6 +10,14 @@ class Invasor {
         return "invasor.png"
     }
 
+    method esSolido() {
+        return false
+    }
+
+    method esBomba() {
+        return false
+    }
+
 
     method initialize() {
         game.onTick(2000, "disparador_proyectil_" + self.identity().toString(), {self.fire()})
@@ -31,6 +39,8 @@ class Proyectil {
   var property position
   const direccion 
   method esSolido() { return false}
+
+  method esBomba() { return false }
 
   method image() {
         return "proyectil.png"
