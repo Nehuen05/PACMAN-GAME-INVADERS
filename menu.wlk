@@ -6,6 +6,7 @@ import spawners.*
 import pacman-game.*
 import fondo.*
 import fantasmas.*
+import mapa.*
 
 
 object menu {
@@ -47,6 +48,7 @@ object menu {
         fondoDeJuego= "fondo.jpg"
         juegoIniciado = true
         game.addVisual(fondo)
+        generadorMapa.crear()
 
 //MUSICA DE FONDO
         const musicaFondo = game.sound("musica_fondo.mp3")
