@@ -48,6 +48,7 @@ object menu {
         fondoDeJuego= "fondo.jpg"
         juegoIniciado = true
         game.addVisual(fondo)
+        generadorMapa.crear()
 
 //MUSICA DE FONDO
         const musicaFondo = game.sound("musica_fondo.mp3")
