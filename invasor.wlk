@@ -20,7 +20,7 @@ class Invasor {
 
 
     method initialize() {
-        game.onTick(2000, "disparador_proyectil_" + self.identity().toString(), {self.fire()})
+        game.onTick(4000, "disparador_proyectil_" + self.identity().toString(), {self.fire()})
     }
 
 

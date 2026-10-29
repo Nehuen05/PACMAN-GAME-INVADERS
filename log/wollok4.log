@@ -458,3 +458,64 @@
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":531,"timestamp":"2026-10-27T20:18:32.210Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":68642,"timestamp":"2026-10-27T20:19:40.321Z"}
 >>>>>>> movimientos
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":490,"timestamp":"2026-10-27T20:21:55.829Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":14046,"timestamp":"2026-10-27T20:22:09.385Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":487,"timestamp":"2026-10-27T20:22:12.419Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":694747,"timestamp":"2026-10-27T20:33:46.680Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":473,"timestamp":"2026-10-27T20:34:12.468Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":138614,"timestamp":"2026-10-27T20:36:30.610Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":480,"timestamp":"2026-10-27T20:36:42.608Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":334,"timestamp":"2026-10-28T23:34:59.915Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":243,"timestamp":"2026-10-28T23:35:00.174Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":151,"timestamp":"2026-10-28T23:35:00.381Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":135,"timestamp":"2026-10-28T23:35:00.527Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":165,"timestamp":"2026-10-28T23:35:00.693Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":179,"timestamp":"2026-10-28T23:35:00.873Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":303,"timestamp":"2026-10-28T23:35:01.177Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":226,"timestamp":"2026-10-28T23:35:01.405Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":137,"timestamp":"2026-10-28T23:35:01.553Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":163,"timestamp":"2026-10-28T23:35:01.717Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":156,"timestamp":"2026-10-28T23:35:01.874Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":115,"timestamp":"2026-10-28T23:35:01.989Z"}
+{"level":"info","message":"⌛ Validating sonidos.wlk","timeElapsed":177,"timestamp":"2026-10-28T23:35:02.167Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":133,"timestamp":"2026-10-28T23:35:02.301Z"}
+{"level":"info","message":"⌛ Validating pacman.wtest","timeElapsed":156,"timestamp":"2026-10-28T23:35:02.463Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":103,"timestamp":"2026-10-28T23:35:02.566Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":163,"timestamp":"2026-10-28T23:35:02.730Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":169,"timestamp":"2026-10-28T23:35:02.900Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":120,"timestamp":"2026-10-28T23:35:03.020Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":217,"timestamp":"2026-10-28T23:35:03.247Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":118,"timestamp":"2026-10-28T23:35:03.366Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":109,"timestamp":"2026-10-28T23:35:03.475Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":132,"timestamp":"2026-10-28T23:35:03.808Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":140,"timestamp":"2026-10-28T23:35:03.949Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":163,"timestamp":"2026-10-28T23:35:04.112Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":151,"timestamp":"2026-10-28T23:35:04.264Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":121,"timestamp":"2026-10-28T23:35:04.385Z"}
+{"level":"info","message":"⌛ Validating muro.wlk","timeElapsed":160,"timestamp":"2026-10-28T23:35:04.546Z"}
+{"level":"info","message":"⌛ Validating menuMuerte.wlk","timeElapsed":163,"timestamp":"2026-10-28T23:35:04.709Z"}
+{"level":"info","message":"⌛ Validating menuGanador.wlk","timeElapsed":174,"timestamp":"2026-10-28T23:35:04.884Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":143,"timestamp":"2026-10-28T23:35:05.028Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":139,"timestamp":"2026-10-28T23:35:05.169Z"}
+{"level":"info","message":"⌛ Validating fondo.wlk","timeElapsed":186,"timestamp":"2026-10-28T23:35:05.355Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":224,"timestamp":"2026-10-28T23:35:05.581Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":227,"timestamp":"2026-10-28T23:35:05.809Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":256,"timestamp":"2026-10-28T23:35:06.066Z"}
+{"level":"info","message":"⌛ Validating bolitas.wlk","timeElapsed":208,"timestamp":"2026-10-28T23:35:06.276Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":258,"timestamp":"2026-10-28T23:35:28.857Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":180,"timestamp":"2026-10-28T23:35:29.040Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":207,"timestamp":"2026-10-28T23:35:29.413Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":201,"timestamp":"2026-10-28T23:35:29.624Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":1295,"timestamp":"2026-10-28T23:38:35.846Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":78175,"timestamp":"2026-10-28T23:39:52.727Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":1121,"timestamp":"2026-10-28T23:39:57.849Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":38371,"timestamp":"2026-10-28T23:40:35.098Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":965,"timestamp":"2026-10-28T23:40:39.475Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":334,"timestamp":"2026-10-28T23:43:31.681Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":288,"timestamp":"2026-10-28T23:43:32.046Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":278,"timestamp":"2026-10-28T23:43:40.674Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":260,"timestamp":"2026-10-28T23:43:41.012Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":295,"timestamp":"2026-10-28T23:43:41.309Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":205,"timestamp":"2026-10-28T23:43:41.533Z"}
+{"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":187391,"timestamp":"2026-10-28T23:43:45.901Z"}
+{"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":1220,"timestamp":"2026-10-28T23:43:50.804Z"}
