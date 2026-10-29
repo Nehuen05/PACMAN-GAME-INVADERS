@@ -10,6 +10,10 @@ import fantasmas.*
 
 program juego {
 
+
+
+
+
   game.title("PACMAN INVADERS")
   
   game.boardGround(menu.fondoDeJuego())
@@ -34,14 +38,13 @@ program juego {
   game.schedule(5000,{ game.addVisual(new BombaRandom (position = game.at(12, 10)))})
   game.schedule(5000,{ game.addVisual(new BombaRandom (position = game.at(10, 10)))})
 
-// SPAWNER DISPARADORES
-  spawner.spawnearCant_Invasores(2)
-
-// SPAWNER DISPARADORES
-  spawner.spawnearCant_Invasores(2)
 
 // COLISIONES 
   game.onCollideDo(pacman, {elemento => elemento.chocoConPacman()})
+
+
+
+
+
   game.start()
-  
-}
+}  
