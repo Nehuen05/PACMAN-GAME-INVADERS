@@ -519,3 +519,53 @@
 {"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":205,"timestamp":"2026-10-28T23:43:41.533Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed pacman-game.juego on c:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME","timeElapsed":187391,"timestamp":"2026-10-28T23:43:45.901Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mpacman-game.juego\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\usuario\\OneDrive\\Escritorio\\PACMAN-GAME\u001b[39m\u001b[23m","ok":true,"timeElapsed":1220,"timestamp":"2026-10-28T23:43:50.804Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":395,"timestamp":"2026-10-29T17:19:58.197Z"}
+{"level":"error","message":"✘ Failed to rebuild document Missing workspace folder!","stack":"Error: Missing workspace folder!\n    at QF (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:7332)\n    at V3.invoke (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:157330)\n    at o.fire (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:158100)\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:37:57488\n    at nd (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:8:1561)\n    at It (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6224)\n    at et (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6378)\n    at Immediate._onImmediate (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6142)\n    at process.processImmediate (node:internal/timers:574:21)","timestamp":"2026-10-29T17:19:58.289Z"}
+{"level":"error","message":"✘ Failed to rebuild document Missing workspace folder!","stack":"Error: Missing workspace folder!\n    at QF (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:2430:7332)\n    at V3.invoke (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:157330)\n    at o.fire (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:3:158100)\n    at c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:37:57488\n    at nd (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:8:1561)\n    at It (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6224)\n    at et (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6378)\n    at Immediate._onImmediate (c:\\Users\\usuario\\.vscode\\extensions\\uqbar.wollok-lsp-ide-0.5.5\\out\\server\\src\\server.js:7:6142)\n    at process.processImmediate (node:internal/timers:574:21)","timestamp":"2026-10-29T17:19:58.291Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":293,"timestamp":"2026-10-29T17:19:58.687Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":301,"timestamp":"2026-10-29T17:19:58.989Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":264,"timestamp":"2026-10-29T17:20:00.424Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":226,"timestamp":"2026-10-29T17:20:00.700Z"}
+{"level":"info","message":"⌛ Validating pacman.wtest","timeElapsed":226,"timestamp":"2026-10-29T17:20:00.926Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":208,"timestamp":"2026-10-29T17:20:01.135Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":176,"timestamp":"2026-10-29T17:20:01.313Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":146,"timestamp":"2026-10-29T17:20:01.603Z"}
+{"level":"info","message":"⌛ Validating pacman.wtest","timeElapsed":108,"timestamp":"2026-10-29T17:20:01.710Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":120,"timestamp":"2026-10-29T17:20:01.832Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":158,"timestamp":"2026-10-29T17:20:02.989Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":200,"timestamp":"2026-10-29T17:20:03.235Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":168,"timestamp":"2026-10-29T17:20:03.406Z"}
+{"level":"info","message":"⌛ Validating pacman.wtest","timeElapsed":262,"timestamp":"2026-10-29T17:20:03.669Z"}
+{"level":"info","message":"⌛ Validating trampas.wlk","timeElapsed":288,"timestamp":"2026-10-29T17:20:03.958Z"}
+{"level":"info","message":"⌛ Validating spawners.wlk","timeElapsed":218,"timestamp":"2026-10-29T17:20:04.177Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":251,"timestamp":"2026-10-29T17:20:04.429Z"}
+{"level":"info","message":"⌛ Validating sonidos.wlk","timeElapsed":229,"timestamp":"2026-10-29T17:20:04.678Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":123,"timestamp":"2026-10-29T17:20:04.802Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":120,"timestamp":"2026-10-29T17:20:04.936Z"}
+{"level":"info","message":"⌛ Validating pacman-game.wpgm","timeElapsed":314,"timestamp":"2026-10-29T17:20:05.259Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":135,"timestamp":"2026-10-29T17:20:05.395Z"}
+{"level":"info","message":"⌛ Validating pacman.wtest","timeElapsed":140,"timestamp":"2026-10-29T17:20:05.535Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":138,"timestamp":"2026-10-29T17:20:05.761Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":111,"timestamp":"2026-10-29T17:20:06.338Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":116,"timestamp":"2026-10-29T17:20:06.454Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":113,"timestamp":"2026-10-29T17:20:06.568Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":137,"timestamp":"2026-10-29T17:20:06.706Z"}
+{"level":"info","message":"⌛ Validating pacman.wlk","timeElapsed":286,"timestamp":"2026-10-29T17:20:06.994Z"}
+{"level":"info","message":"⌛ Validating muro.wlk","timeElapsed":143,"timestamp":"2026-10-29T17:20:07.156Z"}
+{"level":"info","message":"⌛ Validating menuMuerte.wlk","timeElapsed":168,"timestamp":"2026-10-29T17:20:07.324Z"}
+{"level":"info","message":"⌛ Validating menuGanador.wlk","timeElapsed":152,"timestamp":"2026-10-29T17:20:07.477Z"}
+{"level":"info","message":"⌛ Validating menu.wlk","timeElapsed":280,"timestamp":"2026-10-29T17:20:07.757Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":194,"timestamp":"2026-10-29T17:20:07.951Z"}
+{"level":"info","message":"⌛ Validating fondo.wlk","timeElapsed":227,"timestamp":"2026-10-29T17:20:08.179Z"}
+{"level":"info","message":"⌛ Validating fantasmas.wlk","timeElapsed":204,"timestamp":"2026-10-29T17:20:08.385Z"}
+{"level":"info","message":"⌛ Validating direcciones.wlk","timeElapsed":190,"timestamp":"2026-10-29T17:20:08.581Z"}
+{"level":"info","message":"⌛ Validating bombasRandom.wlk","timeElapsed":162,"timestamp":"2026-10-29T17:20:08.743Z"}
+{"level":"info","message":"⌛ Validating bolitas.wlk","timeElapsed":169,"timestamp":"2026-10-29T17:20:08.913Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":233,"timestamp":"2026-10-29T17:20:31.435Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":365,"timestamp":"2026-10-29T17:20:31.800Z"}
+{"level":"info","message":"Removing diagnostics from /C:/Users/usuario/OneDrive/Escritorio/PACMAN-GAME/pacman.wtest","timestamp":"2026-10-29T17:20:31.905Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":111,"timestamp":"2026-10-29T17:21:54.113Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":133,"timestamp":"2026-10-29T17:21:54.365Z"}
+{"level":"info","message":"⌛ Validating invasor.wlk","timeElapsed":127,"timestamp":"2026-10-29T17:21:54.495Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":195,"timestamp":"2026-10-29T17:22:09.844Z"}
+{"level":"info","message":"Removing diagnostics from /C:/Users/usuario/OneDrive/Escritorio/PACMAN-GAME/pacman.wtest","timestamp":"2026-10-29T17:22:09.944Z"}
