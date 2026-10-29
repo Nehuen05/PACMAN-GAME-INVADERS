@@ -1,6 +1,7 @@
 import pacman.*
 import wollok.game.*
 import direcciones.*
+import muro.*
 
 describe "Tests de pacman" {
 
@@ -64,4 +65,33 @@ describe "Tests de pacman" {
 		assert.equals(game.at(9,5), pacman.position())
 	}
 
+}
+describe "Pacman y el Muro" {
+
+	method initialize() {
+		game.clear()
+		game.height(10) //configurar el tamaño es importante 
+		game.width(10)
+		game.addVisual(new Muro (position = game.at(5, 4)))
+		game.addVisual(new Muro (position = game.at(5, 6)))
+		game.addVisual(new Muro (position = game.at(4, 5)))
+		game.addVisual(new Muro (position = game.at(6, 5)))
+		pacman.position(game.at(5,5))
+	}
+	test "pacman no transpasa el muro por el Sur" {
+		pacman.mover(arriba)
+		assert.equals(game.at(5,5), pacman.position())
+  }
+	test "pacman no transpasa el muro por el Norte" {
+		pacman.mover(abajo)
+		assert.equals(game.at(5,5), pacman.position())
+  }
+	test "pacman no trnspasa el muro por el Este" {
+		pacman.mover(izquierda)
+		assert.equals(game.at(5,5), pacman.position())
+  }
+	test "pacman no trnspasa el muro por el Oeste" {
+		pacman.mover(derecha)
+		assert.equals(game.at(5,5), pacman.position())
+  }
 }
