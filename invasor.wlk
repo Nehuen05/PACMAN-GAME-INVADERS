@@ -26,13 +26,17 @@ class Invasor {
 
 
     method fire(){
-        const proyectil = new Proyectil(position = self.position(), direccion = direccion)
-        game.addVisual(proyectil)
+        if (game.hasVisual(pacman)) {
+            const proyectil = new Proyectil(position = self.position(), direccion = direccion)
+            game.addVisual(proyectil)
 
-
-        game.onTick(100, "movimiento_proyectil_" + proyectil.identity().toString(), {proyectil.avanzar()})
+            game.onTick(200, "movimiento_proyectil_" + proyectil.identity().toString(), {proyectil.avanzar()})
+        }
     }
     
+    method matar() {
+      
+    }
 }
 
 class Proyectil {
@@ -46,19 +50,9 @@ class Proyectil {
         return "proyectil.png"
   }
 
-    method initialize() {
-        game.onCollideDo(self, { unPersonaje => 
-            unPersonaje.matar()
-                
-                
-                
-                
-                self.destruir()
-                
-                
-                
-            
-        })
+    method chocoConPacman() {
+        self.destruir()
+        pacman.matar()
     }
 
   method avanzar() {
@@ -68,20 +62,17 @@ class Proyectil {
         position.left(1)
     }
 
-
     if (position.x() < 0 or position.x() >= game.width()){
-        game.removeVisual(self)
-        game.removeTickEvent("movimiento_proyectil_" + self.identity().toString())
+        self.destruir()
     }
   }
 
-
-    method destruir() {
-        if (game.hasVisual(self)) {
-            game.removeVisual(self)
-        }
-        
-        game.removeTickEvent("movimiento_proyectil_" + self.identity().toString())
-        
+  method destruir() {
+    if (game.hasVisual(self)) {
+        game.removeVisual(self)
     }
+        
+    game.removeTickEvent("movimiento_proyectil_" + self.identity().toString())
+        
+  }
 }
