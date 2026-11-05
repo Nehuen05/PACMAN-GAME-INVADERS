@@ -106,6 +106,7 @@ describe "Tests de pacman y sus bombas" {
 		game.height(10) //configurar el tamaño es importante 
 		game.width(10)
 		game.addVisual( new BombaRandom (position = game.at(6, 5)))
+		game.addVisual( new BombaRandom (position = game.at(5, 5)))
 		pacman.position(game.at(5,5))
 	}
 	test "pacman puede agarrar una bomba " {
@@ -117,5 +118,37 @@ describe "Tests de pacman y sus bombas" {
 		pacman.mover(izquierda)
 		pacman.ponerBomba()
 		assert.equals(game.at(5,5), Bomba.position())
+  }
+  	test "pacman no puede colocar una bomba en un espacio ocupado" {
+		pacman.mover(derecha)
+		pacman.mover(izquierda)
+		pacman.ponerBomba()
+		assert.throwsException({ pacman.ponerBomba() })
+  }
+}
+describe "Tests de los fantasmas" {
+	method initialize() {
+		game.clear()
+		game.height(10) //configurar el tamaño es importante 
+		game.width(10)
+		game.addVisual(new Fantasma(position = game.at(5, 4), imagen = "fantasma.png", pacmanFuerte = false, fantasmaVivo = true))
+		pacman.position(game.at(5,5))
+	}
+	test "pacman muere al chocar con un fantasma" {
+		pacman.mover(arriba)
+		assert.that(!pacman.estaVivo())
+  }
+}
+describe "Tests de pacman y las bolitas" {
+	method initialize() {
+		game.clear()
+		game.height(10) //configurar el tamaño es importante 
+		game.width(10)
+		game.addVisual(new Bolitas(position = game.at(5, 4)))
+		pacman.position(game.at(5,5))
+	}
+	test "pacman come una bolita" {
+		pacman.mover(arriba)
+		assert.equals(0, game.visuals().size())
   }
 }

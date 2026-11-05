@@ -1,9 +1,0 @@
-import muro.*
-import trampas.*
-import wollok.game.*
-import pacman.*
-import direcciones.*
-import bombasRandom.*
-import spawners.*
-import menu.*
-import fantasmas.*
