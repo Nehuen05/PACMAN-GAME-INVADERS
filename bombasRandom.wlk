@@ -12,4 +12,8 @@ class BombaRandom{
     }
 
     method esSolido() { return false}
+
+    method esBomba() { return false }
+
+    method matar() {}
 }

@@ -7,16 +7,23 @@ import bombasRandom.*
 import spawners.*
 import menu.*
 import fantasmas.*
+import sonidos.*
 
 program juego {
+
+
+
+
 
   game.title("PACMAN INVADERS")
   
   game.boardGround(menu.fondoDeJuego())
   game.height(20)
 	game.width(20)
+
 //CONTROLES MENU
-  keyboard.space().onPressDo({menu.iniciar()})
+  keyboard.num1().onPressDo({menu.iniciar()
+                            sonidos.sonidoInicio()})
 
   //MOVIMIENTO PACMAN
 
@@ -34,14 +41,13 @@ program juego {
   game.schedule(5000,{ game.addVisual(new BombaRandom (position = game.at(12, 10)))})
   game.schedule(5000,{ game.addVisual(new BombaRandom (position = game.at(10, 10)))})
 
-// SPAWNER DISPARADORES
-  spawner.spawnearCant_Invasores(2)
-
-// SPAWNER DISPARADORES
-  spawner.spawnearCant_Invasores(2)
 
 // COLISIONES 
   game.onCollideDo(pacman, {elemento => elemento.chocoConPacman()})
+
+
+
+
+
   game.start()
-  
-}
+}  

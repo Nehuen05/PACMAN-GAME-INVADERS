@@ -1,11 +1,12 @@
 import wollok.game.*
-import invasor.*
 
 class Muro {
-    method image() = "muro.png"
+    method image() = "muro1.png"
     var property position
 
     method esSolido() { return true}
+
+    method esBomba() { return false }
 
     method matar() {
         // No hace nada, el muro no puede ser destruido
