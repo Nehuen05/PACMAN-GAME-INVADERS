@@ -149,6 +149,6 @@ describe "Tests de pacman y las bolitas" {
 	}
 	test "pacman come una bolita" {
 		pacman.mover(arriba)
-		assert.equals(0, game.visuals().size())
+		assert.equals(pacman.contadorPuntos, 1000)
   }
 }

@@ -10,7 +10,6 @@ class Muro {
 
     method matar() {
         // No hace nada, el muro no puede ser destruido
-        game.onCollideDo(self, { unPersonaje => unPersonaje.destruir() })
     }
 
  }
