@@ -1,3 +1,4 @@
+import muro.*
 import wollok.game.*
 import pacman.*
 import bombasRandom.*
